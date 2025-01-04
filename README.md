@@ -34,14 +34,26 @@ A web application that uses Natural Language Processing (NLP) to perform sentime
 ## Setup
 
 1. **Clone this repository:**
-  - git clone (https://github.com/ssommera/nlp-sentiment-analysis-web-app.git)
-  - cd sentiment-analysis-web-app
-    
+   - Clone the repository using the following command:
+     ```bash
+     git clone https://github.com/ssommera/nlp-sentiment-analysis-web-app.git
+     ```
+   - Change into the project directory:
+     ```bash
+     cd sentiment-analysis-web-app
+     ```
+
 2. **Install dependencies using Poetry:**
-  - poetry install flask nltk scikit-learn pandas 
+   - Install the necessary dependencies:
+     ```bash
+     poetry install flask nltk scikit-learn pandas
+     ```
 
 3. **Run the app:**
-  - poetry run python app.py
+   - Start the Flask app using Poetry:
+     ```bash
+     poetry run python app.py
+     ```
 
 ## Using the App
 1. Open your browser and go to http://127.0.0.1:5000/.
