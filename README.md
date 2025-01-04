@@ -34,7 +34,7 @@ A web application that uses Natural Language Processing (NLP) to perform sentime
 ## Setup
 
 1. **Clone this repository:**
-git clone https://github.com/yourusername/sentiment-analysis-web-app.git
+git clone (https://github.com/ssommera/nlp-sentiment-analysis-web-app.git)
 cd sentiment-analysis-web-app
 
 2. **Install dependencies using Poetry:**
