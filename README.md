@@ -40,7 +40,7 @@ A web application that uses Natural Language Processing (NLP) to perform sentime
      ```
    - Change into the project directory:
      ```bash
-     cd sentiment-analysis-web-app
+     cd nlp-sentiment-analysis-web-app
      ```
 
 2. **Install dependencies using Poetry:**
