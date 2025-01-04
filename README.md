@@ -37,7 +37,7 @@ A web application that uses Natural Language Processing (NLP) to perform sentime
 git clone https://github.com/yourusername/sentiment-analysis-web-app.git
 cd sentiment-analysis-web-app
 
-2.**Install dependencies using Poetry:**
+2. **Install dependencies using Poetry:**
 poetry install flask nltk scikit-learn pandas
 
 3. **Run the app:**
